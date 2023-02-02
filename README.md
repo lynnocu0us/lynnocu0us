@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lynnocu0us
-- 👀 I’m interested in frontend concepts and engineering
+- 👀 I’m interested in frontend development concepts and design
 - 🌱 I’m currently learning node js/react/angular
 - 💞️ I’m looking to collaborate on software design and user interfacing projects
 - 📫 How to reach me --> slnorris9620@gmail.com 
